@@ -10,7 +10,9 @@
 	<img align="right" alt="" src="interPyDatacamp.png" width="400" />
 
 ##  Achivement & Participations 
+  - I had participated in :
   -[CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
+  -[Qwiklabs](https://github.com/Wasim-Chadhar/wasim-chadhar)
 
 
 ### I'm a Python Developer, Teacher and Researcher!
