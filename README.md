@@ -88,10 +88,10 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
-| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/commits/) |
-| [**Github Profile**](https://github.com/saadfareed/saadfareed) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github)](https://github.com/saadfareed/saadfareed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github)](https://github.com/saadfareed/saadfareed/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/commits/) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/) |
+| [**Meeting Summarization**](https://github.com/wasim-chadhar/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/wasim-chadhar/transcript_summary?color=green&logo=github&style=flat)](https://github.com/wasim-chadhar/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wasim-chadhar/transcript_summary?style=flat&logo=github)](https://github.com/wasim-chadhar/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/wasim-chadhar/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/wasim-chadhar/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/wasim-chadhar/transcript_summary?color=blue&logo=github&style=flat)](https://github.com/wasim-chadhar/transcript_summary/commits/) |
+| [**Github Profile**](https://github.com/wasim-chadhar/wasim-chadhar) | [![GitHub issues](https://img.shields.io/github/issues/wasim-chadhar/wasim-chadhar?color=green&logo=github&style=flat)](https://github.com/wasim-chadhar/wasim-chadhar/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wasim-chadhar/wasim-chadhar?style=flat&logo=github)](https://github.com/wasim-chadhar/wasim-chadhar/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/wasim-chadhar/wasim-chadhar?style=flat&color=critical&logo=github)](https://github.com/wasim-chadhar/wasim-chadhar/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/wasim-chadhar/wasim-chadhar?color=blue&logo=github&style=flat)](https://github.com/wasim-chadhar/wasim-chadhar/commits/) |
+| [**Certificate Generator**](https://github.com/wasim-chadhar/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/wasim-chadhar/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/wasim-chadhar/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wasim-chadhar/Certificate_generator?style=flat&logo=github)](https://github.com/wasim-chadhar/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/wasim-chadhar/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/wasim-chadhar/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/wasim-chadhar/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/wasim-chadhar/Certificate_generator/commits/)|
+| [**Leetcode Practice**](https://github.com/wasim-chadhar/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/wasim-chadhar/Leetcode?color=green&logo=github&style=flat)](https://github.com/wasim-chadhar/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wasim-chadhar/Leetcode?style=flat&logo=github)](https://github.com/wasim-chadhar/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/wasim-chadhar/Leetcode?style=flat&color=critical&logo=github)](https://github.com/wasim-chadhar/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/wasim-chadhar/Leetcode?color=blue&logo=github&style=flat)](https://github.com/wasim-chadhar/Leetcode/commits/) |
 
 	
  
@@ -99,11 +99,11 @@
  </h2>
 
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/wasim-chadhar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasim-chadhar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wasim-chadhar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasim-chadhar&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
@@ -120,23 +120,23 @@
 
 ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/wasim-chadhar/wasim-chadhar/blob/main/github-metrics.svg" />
 </p>
 <br>
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/wasim-chadhar/wasim-chadhar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
-<a href="https://github.com/saadfareed">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://github.com/wasim-chadhar">
+  <img src="https://github-profile-trophy.vercel.app/?username=wasim-chadhar&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
 </p>
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+  <img src="https://profile-counter.glitch.me/wasim-chadhar/count.svg" />
 </p>
