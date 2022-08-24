@@ -71,7 +71,7 @@
         <img src="https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg" >
     </td>
     <td align='center'>
-        <img src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" width="80">
+        <img src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg" width="80">
     </td>
 </tr>
     
