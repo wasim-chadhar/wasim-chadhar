@@ -47,13 +47,13 @@
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="200" />
     </td>
     <td align='center'>
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+    </td>
+    <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
 </tr>
  
