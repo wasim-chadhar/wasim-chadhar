@@ -7,7 +7,6 @@
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/Wasim-Chadhar/ChadharWasim) will started soon.
-<----- <img align="right" alt="" src="certificate-git&github.jpeg" width="300" /> -------->
 	<img align="right" alt="" src="interPyDatacamp.png" width="400" />
 
 	
