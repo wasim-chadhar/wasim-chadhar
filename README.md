@@ -44,7 +44,7 @@
  
 <tr>
     <td align="center">
-	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="80" />
+	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="100" />
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
@@ -62,14 +62,12 @@
     <td align='center'>
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
-    <td align='center'>
-        <img src="" >
-    </td>
+
  <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
   <td align='center'>
-        <img src="https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg" >
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="100" >
     </td>
 
 </tr>
