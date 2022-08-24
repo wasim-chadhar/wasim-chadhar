@@ -43,6 +43,9 @@
 </tr>
  
 <tr>
+    <td align="center">
+	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="80" />
+    </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
@@ -52,9 +55,7 @@
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
-    <td align='center'>
-        <img src="">
-    </td>
+
 </tr>
  
 <tr>
@@ -70,9 +71,7 @@
   <td align='center'>
         <img src="https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg" >
     </td>
-    <td align='center'>
-        <img src="https://nodejs.org/" width="80">
-    </td>
+
 </tr>
     
 </table>
