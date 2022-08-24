@@ -75,7 +75,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Wasim%20Munir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/wasim-chadhar/"><img src="https://img.shields.io/badge/-Wasim%20Munir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:wasim.chadhar253@gmail.com"><img src="https://img.shields.io/badge/-wasimmunir@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/wasim_chadhar/"><img src="https://img.shields.io/badge/-@wasimmunir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Wasim-Chadhar/"><img src="https://img.shields.io/badge/-/wasimmunir-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
