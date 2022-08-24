@@ -89,9 +89,7 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
-| 
 | [**Github Profile**](https://github.com/wasim-chadhar/wasim-chadhar) | [![GitHub issues](https://img.shields.io/github/issues/wasim-chadhar/wasim-chadhar?color=green&logo=github&style=flat)](https://github.com/wasim-chadhar/wasim-chadhar/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wasim-chadhar/wasim-chadhar?style=flat&logo=github)](https://github.com/wasim-chadhar/wasim-chadhar/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/wasim-chadhar/wasim-chadhar?style=flat&color=critical&logo=github)](https://github.com/wasim-chadhar/wasim-chadhar/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/wasim-chadhar/wasim-chadhar?color=blue&logo=github&style=flat)](https://github.com/wasim-chadhar/wasim-chadhar/commits/) |
-
 | [**Leetcode Practice**](https://github.com/wasim-chadhar/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/wasim-chadhar/Leetcode?color=green&logo=github&style=flat)](https://github.com/wasim-chadhar/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wasim-chadhar/Leetcode?style=flat&logo=github)](https://github.com/wasim-chadhar/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/wasim-chadhar/Leetcode?style=flat&color=critical&logo=github)](https://github.com/wasim-chadhar/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/wasim-chadhar/Leetcode?color=blue&logo=github&style=flat)](https://github.com/wasim-chadhar/Leetcode/commits/) |
 
 	
