@@ -10,7 +10,7 @@
 	<img align="right" alt="" src="interPyDatacamp.png" width="400" />
 
 ##Achivement & Participations
-	[CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
+ -[CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
 
 
 ### I'm a Python Developer, Teacher and Researcher!
