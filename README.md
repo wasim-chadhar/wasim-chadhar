@@ -12,7 +12,7 @@
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
-<img align="right" alt="" src="interPyDatacamp.png" width="400" />
+
 
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @SoftTech.
@@ -22,6 +22,8 @@
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected. 
  
+<img align="right" alt="" src="interPyDatacamp.png" width="400" />
+	
 <h2>Tech Stack</h2>
 
 <table width="100">
