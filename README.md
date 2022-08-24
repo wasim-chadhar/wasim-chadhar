@@ -15,12 +15,12 @@
 <img align="right" alt="" src="interPyDatacamp.png" width="400" />
 
 ### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
+- 🔭 I’m currently working as Backend Engineer @SoftTech.
 - 🌱 I’m currently expanding my knowledge in DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 500 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected  
+- 💎 If you are a Tech boy/girl let's get connected. 
  
 <h2>Tech Stack</h2>
 
@@ -32,9 +32,6 @@
 
   <td align='center' width="200">
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
     </td>
  <td align='center' width="200">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
@@ -55,11 +52,8 @@
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+        <img src="">
     </td>
 </tr>
  
@@ -68,16 +62,16 @@
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
     <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+        <img src="" >
     </td>
  <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
   <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+        <img src="https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg" >
     </td>
     <td align='center'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU" width="80">
+        <img src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" width="80">
     </td>
 </tr>
     
