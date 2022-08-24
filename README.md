@@ -7,7 +7,8 @@
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/Wasim-Chadhar/ChadharWasim) will started soon.
-<img align="right" alt="" src="certificate-git&github.jpeg" width="300" />
+<----- <img align="right" alt="" src="certificate-git&github.jpeg" width="300" /> -------->
+	<img align="right" alt="" src="interPyDatacamp.png" width="400" />
 
 	
 ## My Python Development Course 
@@ -15,7 +16,6 @@
 
 
 ### I'm a Python Developer, Teacher and Researcher!
-	<img align="right" alt="" src="interPyDatacamp.png" width="400" />
 - 🔭 I’m currently working as Backend Engineer @SoftTech.
 - 🌱 I’m currently expanding my knowledge in DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
