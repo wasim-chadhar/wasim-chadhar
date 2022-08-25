@@ -17,7 +17,7 @@
 
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently Studying Computer Science at <a href="" >UET Lahore </a>.
-- 🌱 I’m currently expanding my knowledge in | Python Django | Nodejs | Reactjs.
+- 🌱 I’m currently expanding my knowledge in | Python Django | Nodejs | Reactjs |
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Passionate to learn Technology in challenging environment.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
