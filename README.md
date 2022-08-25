@@ -11,15 +11,15 @@
 
 ##  Achivement & Participations 
   - I had participated in :
-  -[CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
-  -[Qwiklabs](https://github.com/Wasim-Chadhar/wasim-chadhar)
+  - [CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
+  - [Qwiklabs](https://github.com/Wasim-Chadhar/wasim-chadhar)
 
 
 ### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @SoftTech.
-- 🌱 I’m currently expanding my knowledge in DevOps.
+- 🔭 I’m currently Studying Computer Science at <a href="" >UET Lahore </a>.
+- 🌱 I’m currently expanding my knowledge in | Python Django | Nodejs | Reactjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
+- 📢 Passionate to learn Technology in challenging environment.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected. 
  
