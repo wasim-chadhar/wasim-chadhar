@@ -93,13 +93,12 @@
 | [**Leetcode Practice**](https://github.com/wasim-chadhar/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/wasim-chadhar/Leetcode?color=green&logo=github&style=flat)](https://github.com/wasim-chadhar/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wasim-chadhar/Leetcode?style=flat&logo=github)](https://github.com/wasim-chadhar/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/wasim-chadhar/Leetcode?style=flat&color=critical&logo=github)](https://github.com/wasim-chadhar/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/wasim-chadhar/Leetcode?color=blue&logo=github&style=flat)](https://github.com/wasim-chadhar/Leetcode/commits/) |
 
 	
- 
  <h2>GitHub Analytics
  </h2>
 
 <p align="center">
 <a href="https://github.com/wasim-chadhar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasim-chadhar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasim-chadhar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wasim-chadhar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasim-chadhar&show_icons=true&locale=en&layout=demo&theme=algolia" />
