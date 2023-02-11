@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Wasim Munir👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Wasim-Chadhar"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Engineer;Python+Django;Machine+Learning; &center=true&width=500&height=50"></a>
+<a href="https://github.com/Wasim-Chadhar"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Engineer;Python+Django;Machine+Learning &center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/Wasim-Chadhar/wasim-chadhar) will started soon.
