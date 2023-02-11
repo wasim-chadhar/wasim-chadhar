@@ -5,14 +5,9 @@
 <p align="center">
 <a href="https://github.com/Wasim-Chadhar"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Engineer;Python+Django;Machine+Learning&center=true&width=500&height=50"></a>
 	
- ## Bootcamp alert
+<!--  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/Wasim-Chadhar/wasim-chadhar) will started soon.
-	<img align="right" alt="" src="interPyDatacamp.png" width="400" />
-
-##  Achivement & Participations 
-  - I had participated in :
-  - [CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
-  - [Qwiklabs](https://github.com/Wasim-Chadhar/wasim-chadhar)
+	<img align="right" alt="" src="interPyDatacamp.png" width="400" /> -->
 
 
 ### I'm a Python Developer, Teacher and Researcher!
@@ -23,6 +18,12 @@
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech enthusiastic let's get connected. 
  
+	
+##  Achivement & Participations 
+  - I had participated in :
+  - [CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
+  - [Qwiklabs](https://github.com/Wasim-Chadhar/wasim-chadhar)
+
 	
 <h2>Tech Stack</h2>
 
