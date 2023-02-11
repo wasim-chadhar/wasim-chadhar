@@ -6,11 +6,11 @@
 <a href="https://github.com/Wasim-Chadhar"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Engineer;Python+Django;Machine+Learning&center=true&width=500&height=50"></a>
 	
 <!--  ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/Wasim-Chadhar/wasim-chadhar) will started soon.
-	<img align="right" alt="" src="interPyDatacamp.png" width="400" /> -->
+- [MLSA Job Hunting Bootcamp](https://github.com/Wasim-Chadhar/wasim-chadhar) will started soon. --> 
+	<img align="right" alt="" src="interPyDatacamp.png" width="400" /> 
 
 
-### I'm a Python Developer, Teacher and Researcher!
+### I'm a Python Developer and Researcher!
 - 🔭 I’m currently Studying Computer Science at <a href="" >UET Lahore </a>.
 - 🌱 I’m currently expanding my knowledge in | Python Django | Nodejs | Reactjs |
 - 👯 I’m looking to collaborate with other content creators and developers.
