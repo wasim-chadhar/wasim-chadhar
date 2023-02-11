@@ -7,7 +7,8 @@
 	
 <!--  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/Wasim-Chadhar/wasim-chadhar) will started soon.
-	<img align="right" alt="" src="interPyDatacamp.png" width="400" /> -->
+	<img align="right" alt="" src="interPyDatacamp.png" width="400" />
+  <img align="right" alt="" src="interPyDatacamp.png" width="400" />  -->
 
 
 ### I'm a Python Developer and Researcher!
@@ -17,7 +18,6 @@
 - 📢 Passionate to learn Technology in challenging environment.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech enthusiastic let's get connected. 
- <img align="right" alt="" src="interPyDatacamp.png" width="400" />
 	
 ##  Achivement & Participations 
   - I had participated in :
