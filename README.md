@@ -12,7 +12,7 @@
 
 
 ### I'm a Python Developer and Researcher!
-- 🔭 I’m currently Studying Computer Science at <a href="" >UET Lahore </a>.
+- 🔭 Bachelor in Computer Science From <a href="" >UET Lahore </a>.
 - 🌱 I’m currently expanding my knowledge in | Android Developer | Python Django | Nodejs |
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Passionate to learn Technology in challenging environment.
