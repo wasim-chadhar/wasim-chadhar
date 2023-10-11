@@ -18,10 +18,11 @@
 - 📢 Passionate to learn Technology in challenging environment.
 - 💎 If you are a Tech enthusiastic let's get connected. 
 	
-##  Achivement & Participations 
+<!-- ##  Achivement & Participations 
   - I had participated in :
   - [CloudSeekho](https://github.com/Wasim-Chadhar/wasim-chadhar)
   - [Qwiklabs](https://github.com/Wasim-Chadhar/wasim-chadhar)
+  -->
 
 	
 <h2>Tech Stack</h2>
