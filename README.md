@@ -11,7 +11,7 @@
   <img align="right" alt="" src="interPyDatacamp.png" width="400" />  -->
 
 
-### I'm a Python Developer and Researcher!
+### I'm a Android Developer and Researcher!
 - 🔭 Bachelor in Computer Science From <a href="" >UET Lahore </a>.
 - 🌱 I’m currently expanding my knowledge in | Android Developer | Python Django | Nodejs |
 - 👯 I’m looking to collaborate with other content creators and developers.
